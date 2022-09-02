@@ -1,0 +1,74 @@
+{
+    "stops": [
+        {
+            "id": 1,
+            "stop": "H.S.R. Layout",
+            "distance": 0
+        },
+        {
+            "id": 2,
+            "stop": "Madiwala",
+            "distance": 5
+        },
+        {
+            "id": 3,
+            "stop": "Forum",
+            "distance": 11
+        },
+        {
+            "id": 4,
+            "stop": "Shanthinagara",
+            "distance": 15
+        },
+        {
+            "id": 5,
+            "stop": "Richmond Circle",
+            "distance": 18
+        },
+        {
+            "id": 6,
+            "stop": "Chancery Pavillion",
+            "distance": 23
+        },
+        {
+            "id": 7,
+            "stop": "Bowring Institute",
+            "distance": 25
+        },
+        {
+            "id": 8,
+            "stop": "Bangalore Club",
+            "distance": 27
+        },
+        {
+            "id": 9,
+            "stop": "Indian Express",
+            "distance": 29
+        },
+        {
+            "id": 10,
+            "stop": "Vasantanagara",
+            "distance": 30
+        },
+        {
+            "id": 11,
+            "stop": "RM Guttahalli",
+            "distance": 33
+        },
+        {
+            "id": 12,
+            "stop": "Mekhri Circle",
+            "distance": 35
+        },
+        {
+            "id": 13,
+            "stop": "Hebbala",
+            "distance": 37
+        },
+        {
+            "id": 14,
+            "stop": "BIAL",
+            "distance": 62
+        }
+    ]
+}
